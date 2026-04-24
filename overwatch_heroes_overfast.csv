@@ -1,0 +1,45 @@
+key,name,role
+ana,Ana,support
+ashe,Ashe,damage
+baptiste,Baptiste,support
+bastion,Bastion,damage
+brigitte,Brigitte,support
+cassidy,Cassidy,damage
+doomfist,Doomfist,tank
+dva,D.Va,tank
+echo,Echo,damage
+freja,Freja,damage
+genji,Genji,damage
+hanzo,Hanzo,damage
+hazard,Hazard,tank
+illari,Illari,support
+junker-queen,Junker Queen,tank
+junkrat,Junkrat,damage
+juno,Juno,support
+kiriko,Kiriko,support
+lifeweaver,Lifeweaver,support
+lucio,Lúcio,support
+mauga,Mauga,tank
+mei,Mei,damage
+mercy,Mercy,support
+moira,Moira,support
+orisa,Orisa,tank
+pharah,Pharah,damage
+ramattra,Ramattra,tank
+reaper,Reaper,damage
+reinhardt,Reinhardt,tank
+roadhog,Roadhog,tank
+sigma,Sigma,tank
+sojourn,Sojourn,damage
+soldier-76,Soldier: 76,damage
+sombra,Sombra,damage
+symmetra,Symmetra,damage
+torbjorn,Torbjörn,damage
+tracer,Tracer,damage
+venture,Venture,damage
+widowmaker,Widowmaker,damage
+winston,Winston,tank
+wrecking-ball,Wrecking Ball,tank
+wuyang,Wuyang,support
+zarya,Zarya,tank
+zenyatta,Zenyatta,support
